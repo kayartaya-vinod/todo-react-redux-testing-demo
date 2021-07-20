@@ -2,4 +2,4 @@
 
 ![](app.png)
 
-![](sonar-report.png)
+![](sonar-report-new.png)
